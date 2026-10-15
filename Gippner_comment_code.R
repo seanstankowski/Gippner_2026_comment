@@ -134,7 +134,7 @@ lines(
 
 
 ######## geographic overlap of two taxa with no hybridization
-## this is just achived via binomial samling along the sigmoid, not that the hybrids are added to the plot manually in adobe illustrator
+## this is just achieved via binomial samling along the sigmoid, note that the 4 purple hybrids are added to the plot manually in adobe illustrator
 
 # -----------------------------
 # Parameters
